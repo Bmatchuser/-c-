@@ -1,0 +1,1 @@
+server=H-L-B-20210515T;database=RecoData2017;uid=sa;pwd=123456

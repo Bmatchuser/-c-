@@ -1,0 +1,1 @@
+Max Pool Size = 512;server=H-L-B-20210515T;database=DB_test;uid=sa;pwd=123456
